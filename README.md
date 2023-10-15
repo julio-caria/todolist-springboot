@@ -4,6 +4,7 @@
 
 - Acesso à API Padrão: <http://localhost:8080/firstroute>
 - Acesso ao banco de dados: <http://localhost:8080/h2-console>
+- Acesso ao cadastro de Tasks: <http://localhost:8080/tasks/>
 
 ## Instalações
 
